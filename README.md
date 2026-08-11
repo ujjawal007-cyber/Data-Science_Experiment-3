@@ -8,12 +8,12 @@ Explored shape, columns, data types, and statistical summary
 - Sorted and grouped data by outcome
 - Calculated mean, median, mode, standard deviation, and correlations
 -
-- #### Skills practiced
-- pandas
+#### Skills practiced
+- Pandas
 - EDA
 - Data filtering
 - Groupby
 - Statistics
 - Correlation analysis
--
-- *This was a hands-on lab activity focused on understanding real-world healthcare data and strengthening my data analysis fundamentals.*
+  
+  **This was a hands-on lab activity focused on understanding real-world healthcare data and strengthening my data analysis fundamentals.**
